@@ -7,7 +7,7 @@ I enjoy working on projects that others can benefit from.
 Skills: Python / Git / HPC
 
 - 🔭 Currently studying relationships between theoretical physics and machine learning
-- 🔭 Extensive experiemtn with HPC systems and deployable machine learning solutions
+- 🔭 Extensive expertise with HPC systems and deployable machine learning solutions
 - 💬 Ask me about Python or Machine Learning
 - 📫 Reach me at stovey@icp.uni-stuttgart.de
 
